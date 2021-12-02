@@ -13,4 +13,3 @@ https://docs.google.com/document/d/13jbF5kk0AJvFYUiCs1lj5mY2VXrsdpvl6lERPgveeAY/
 - [ ] Decide on the 3-8 topics
 - [ ] Annotate 333 tweets per person for topics and sentiment
 - [ ] Compute the 10 words in each category with the highesttf-idf
-- [ ] 
