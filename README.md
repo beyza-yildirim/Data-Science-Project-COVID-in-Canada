@@ -1,7 +1,7 @@
 # comp598-final-project
 
 ## Link to final report
-https://docs.google.com/document/d/13jbF5kk0AJvFYUiCs1lj5mY2VXrsdpvl6lERPgveeAY/edit?usp=sharing
+https://www.overleaf.com/4711837839gctvxxfxtsnq
 
 ## To Do
 - [x] Decide on topic: Movie
