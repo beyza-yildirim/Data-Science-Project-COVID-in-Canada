@@ -3,6 +3,7 @@
 ## Link to final report
 https://docs.google.com/document/d/13jbF5kk0AJvFYUiCs1lj5mY2VXrsdpvl6lERPgveeAY/edit?usp=sharing
 
+## To Do
 - [x] Decide on topic: Movie
 - [ ] Decide on movie: 
 - [x] Apply for Twitter API
