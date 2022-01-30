@@ -12,3 +12,5 @@ Each tweet in the aggregated dataset was ensured to be unique.
 To develop the main topics surrounding the discussions on the social network platform, open coding on 200 tweets was conducted.
 
 Once the main topics have been designed, rest of the 1,000 tweets in our dataset were manually annotated with the topic of discussion and positive/neutral/negative sentiment. The topics were characterized by computing the 10 words in each category with the highest tf-idf scores (inverse document frequency).
+
+You can read the report from [here](https://github.com/beyza-yildirim/Data-Science-Project-COVID-in-Canada/blob/master/COMP_598_Final_Project_Report.pdf).
